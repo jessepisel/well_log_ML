@@ -7,5 +7,5 @@ well as a cross-section that you can decimate to see how similar cross-sections
 can look with in a sparse well environment.
 
 ![Cross Section](cross-section.PNG)
-![Angular Unconformity](angular.PNG)
 ![Onlap](onlap.PNG)
+![Angular Unconformity](angular.PNG)
