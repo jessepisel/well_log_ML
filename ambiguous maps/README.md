@@ -6,4 +6,4 @@ angular unconformities and onlap. It creates structure and isochore maps as
 well as a cross-section that you can decimate to see how similar cross-sections
 can look with in a sparse well environment.
 
-![alt text](https://raw.github.com/jessepisel/well_log_ML/blob/master/ambiguous_maps/cross-section.PNG)
+![alt text](https://raw.github.com/jessepisel/well_log_ML/blob/master/ambiguous%20maps/cross-section.PNG)
